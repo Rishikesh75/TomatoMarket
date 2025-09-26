@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iM6wD/+biyo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kreddy\\Documents\\TomatoMarket\\BackendApplication\\RedBasket\\RedBasket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kreddy\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
